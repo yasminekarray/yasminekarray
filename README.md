@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me yasminekarray@isimsf.u-sfax.tn
 
 <!---
 yasminekarray/yasminekarray is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
